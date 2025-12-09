@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Snctnm
-- 👀 I’m interested in Go
-- 🌱 I’m currently learning Go
-- 📫 How to reach me mail
-- 😄 Pronouns: he/him
+- Hi, I’m @Snctnm
+- I’m interested in Go
+- I’m currently learning Go
 
 <!---
 Snctnm/Snctnm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
